@@ -11,19 +11,25 @@ body {
   flex-direction: column;
   align-items: center;
   justify-content: center;
+  row-gap: 5vh;
+  font-family: "Poppins";
 }
 
 .headline {
   color: white;
-  line
-  font-size: 4rem;
+  font-size: 5vh;
+  text-align: center;
+  text-shadow: 0.2vh 0.2vh black;
+  word-spacing: 2vh;
+  font-weight: 900;
 }
 
 .tagline {
   color: white;
   background: rgba(0, 0, 0, 50%);
-  padding: 0.5rem;
-  font-size: 2rem;
+  padding: 1vh;
+  font-size: 3vh;
+  font-weight: 300;
 }
 
 @media (max-width: 320px) {
