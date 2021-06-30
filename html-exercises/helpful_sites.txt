@@ -1,3 +1,13 @@
 Font squirrel- free fonts and font optimizer
 fonts.google.com- fancy fonts, some are free
 type-scale.com- font testing
+can-i-use.com- check which browsers support a feature
+flaticon.com- free icons
+https://css.spritegen.com/- turn multiple images into a css sprite
+https://cssportal.com/image-to-data/- Turn an image into data
+https://bennettfeely.com/clippy/- css clip generator
+https://developer.mozilla.org/en-US/docs/Web/CSS/filter- css filters
+https://responsivebreakpoints.com/- Indentify breakpoints for image resizes
+https://cloudconvert.com/- change file type
+https://www.svgbackgrounds.com/- svg backgrounds
+fontawesome.com- font icons
