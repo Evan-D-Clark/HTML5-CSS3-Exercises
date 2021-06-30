@@ -1,0 +1,22 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    background-color: black;
+    color: white;
+    align-items: center;
+    justify-content:space-evenly;
+    height: 60vh;
+    padding: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+@media screen and (min-width: 768px) {
+    .container {
+        flex-direction: row;
+        height: 2vh;
+        justify-content:flex-end;
+    }
+    .box {
+        padding: 0.5rem;
+    }
+}
