@@ -11,3 +11,6 @@ https://responsivebreakpoints.com/- Indentify breakpoints for image resizes
 https://cloudconvert.com/- change file type
 https://www.svgbackgrounds.com/- svg backgrounds
 fontawesome.com- font icons
+getbootstrap.com- for bootstrap style sheets
+milligram.io- for milligram style sheets
+developer.mozilla.org- html documentation
