@@ -16,3 +16,4 @@ milligram.io- for milligram style sheets
 developer.mozilla.org- html documentation
 https://cubic-bezier.com/#.17,.67,.83,.67- define cubic bezier curve
 https://animate.style/- animations
+Clippy: CSS clip-path maker
