@@ -761,3 +761,16 @@ a {
 .plan--popular:hover {
   transform: scale(1.15);
 }
+
+/* Features Block */
+.feature {
+  gap: 5rem;
+}
+.feature__content-title {
+  margin-top: 1rem;
+}
+
+.feature__image {
+  margin: 6rem 0;
+  width: 600px;
+}
