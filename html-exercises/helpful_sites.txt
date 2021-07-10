@@ -20,3 +20,8 @@ Clippy: CSS clip-path maker
 https://michalsnik.github.io/aos/- scrolling animations
 ogp.me- open graph proticol. For when website is shared over social media
 https://parceljs.org/- build website
+html validation
+css validation
+netlify.com- code deployment
+web.dev/measure- measure site's performance
+chrome store light house- chrom extension of ^
